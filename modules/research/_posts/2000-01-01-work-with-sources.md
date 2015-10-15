@@ -1,5 +1,5 @@
 ---
-title: How to work with sources
+title: Work with sources
 excerpt: "Learn how to work effectively with primary and secondary sources."
 published: true
 ---
