@@ -1,3 +1,9 @@
+---
+title: How to work with sources
+excerpt: "Learn how to work effectively with primary and secondary sources."
+published: true
+---
+
 # Lessons 3: How to work with sources
 
 With these skills in mind, we walk through a list of sources that you can use for your local history research including:
