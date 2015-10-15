@@ -1,6 +1,6 @@
 ---
-title: How to start your research with good questions
-excerpt: "Learn why good history is made of good questions."
+title: Research Questions
+excerpt: "Learn why good history starts with good questions."
 published: true
 ---
 
