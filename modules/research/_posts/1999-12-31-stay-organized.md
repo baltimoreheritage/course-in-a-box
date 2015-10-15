@@ -1,7 +1,7 @@
 ---
 title: Organized and Motivated
 excerpt: "Learn how to search, take notes, and collaborate while having fun along the way."
-published: false
+published: true
 ---
 
 # Lesson 2: How to stay organized and motivated
