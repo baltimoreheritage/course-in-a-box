@@ -2,35 +2,26 @@
 title: How will this course work?
 ---
 
-# How will this course work?
 
-{% comment %}
-![Image of maze with starting point indicated]({{site.baseurl}}/img/start.jpg)
-Image [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/) by [mikecogh](https://www.flickr.com/photos/mikecogh/11300349426) on Flickr.
-{% endcomment %}
+# What is Explore Baltimore Heritage?
 
-The course is split in 4 modules: **community**, **learning on the web**, **content** and **feedback and assessment**.
+Explore Baltimore Heritage highlights Baltimore's many unique historic places and offers self-guided tours of Baltimore neighborhoods: Mount Vernon, Station North, West Baltimore and more! Each point on our interactive map tells a story about Baltimore's past along with historic images from archives and libraries across the Baltimore region.
 
-![Image of lego people]({{site.baseurl}}/img/modules.jpg)
-Leftmost image, [CC-BY-SA](https://creativecommons.org/licenses/by/2.0/) [Peter Dutton](https://www.flickr.com/photos/joeshlabotnik/) 
+# What is this Explore Baltimore Heritage 101 course?
 
-Each module has outcomes directly related to building your course. Every module also have projects, reading and other resources to help you.
+This course is designed as a tutorial for local historians, students, educators and others who are interested in contributing research, writing, or images to Explore Baltimore Heritage. We cover everything from how to write story on a topic that interests you or even how to work with a group of students to develop an entire tour. Key components of this course include an explanation of how stories and tours are organized, guidelines for composing and formatting stories and suggestions for how to submit stories for publication.
+
+The course is split in four modules: **research**, **writing**, **visuals** and **publication**.
+
+Each module includes suggested projects, readings and other related **resources** to help you.
 
 ## Work at your own pace, but not alone!
 
-![]({{site.baseurl}}/img/cohort.png)
+This is a self paced course. You may want to start at the beginning and work through each lessons until the end. Alternatively, you may want to jump around depending on your interest and experience. For example, if you are already an experienced researcher, you may want to start with our module on writing.
 
-This is a self paced course. We tried to match the level of effort required for each module to be about 1 week, but you can always go through it quicker or slower.
-
-**Doing the course at your own pace does not mean that you have to do the course on your own.** From past experience we know that people who create courses together are much more likely to succeed and enjoy doing it. Doing it alone can easily feel like pulling teeth.
-
-## The course forum (community.p2pu.org)
-
-[community.p2pu.org](http://community.p2pu.org) is where the community for this course gathers. Here you can ask any question, share your work or other interesting readings and meet people who are also building online courses to collaborate with.
-
-[![]({{site.baseurl}}/img/community-forum.png)](http://community.p2pu.org)
+**Doing the course at your own pace does not mean that you have to do the course on your own.** We encourage anyone who is taking this course to share your experiences, questions and more on the [Bmore Historic Facebook group](http://facebook.com/groups/bmorehistoric/). Here you can ask any question, share your work or other interesting readings and meet other local historians and preservationists.
 
 ## Where do I go from here?
 
 1. [Introduce yourself]({{site.baseurl}}/modules/start/introduce-yourself/) on the forums.
-2. [Start building your course]({{site.baseurl}}/modules/start/create-your-course/). This step is not optional :)
+2. Continue to take the first lesson!
