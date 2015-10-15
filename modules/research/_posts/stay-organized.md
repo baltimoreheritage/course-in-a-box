@@ -1,5 +1,10 @@
+---
+title: Organized and Motivated
+excerpt: "Learn how to search, take notes, and collaborate while having fun along the way."
+published: false
+---
 
-# Lesson 2: How to stay organized
+# Lesson 2: How to stay organized and motivated
 
 > “The whole time I'm researching I'm keeping one file open on my computer all the time, which is, essentially, my notebook… Anything interesting I read, I'll copy it in, highlights from interviews I do, I'll copy it in, and I'll try out sentences and I'll try out leads and I'll try out conclusions and I'll make lists of points and reading lists and it's kind of a big mess. Usually there are about fifty single-spaced pages of this before I really start writing.”
 > – Michael Pollan, environmental writer from a [2007 interview with Pamela Demory](http://michaelpollan.com/interviews/its-all-storytelling-an-interview-with-michael-pollan/)
