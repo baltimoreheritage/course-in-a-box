@@ -1,5 +1,5 @@
 ---
-title: Research Questions
+title: Ask Good Questions
 excerpt: "Learn why good history starts with good questions."
 published: true
 ---
