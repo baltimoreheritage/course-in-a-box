@@ -5,7 +5,7 @@ title: How will this course work?
 
 # What is Explore Baltimore Heritage?
 
-Explore Baltimore Heritage highlights Baltimore's many unique historic places and offers self-guided tours of Baltimore neighborhoods: Mount Vernon, Station North, West Baltimore and more! Each point on our interactive map tells a story about Baltimore's past along with historic images from archives and libraries across the Baltimore region.
+[Explore Baltimore Heritage](http://explore.baltimoreheritage.org) highlights Baltimore's many unique historic places and offers self-guided tours of Baltimore neighborhoods: Mount Vernon, Station North, West Baltimore and more! Each point on our interactive map tells a story about Baltimore's past along with historic images from archives and libraries across the Baltimore region.
 
 # What is this Explore Baltimore Heritage 101 course?
 
