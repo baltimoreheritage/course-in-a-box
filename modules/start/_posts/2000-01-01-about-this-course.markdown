@@ -7,7 +7,7 @@ title: How will this course work?
 
 [Explore Baltimore Heritage](http://explore.baltimoreheritage.org) highlights Baltimore's many unique historic places and offers self-guided tours of Baltimore neighborhoods: Mount Vernon, Station North, West Baltimore and more! Each point on our interactive map tells a story about Baltimore's past along with historic images from archives and libraries across the Baltimore region.
 
-{% include figure.html src="http://explore.baltimoreheritage.org/files/original/0481037a7ee326c5009b73b3a404ecd0.jpg" caption="View of Howard Street Bridge, 2005" credit="Library of Congress" credit_link="http://www.loc.gov/pictures/collection/highsm/item/2010630964/" %}
+{% include figure.html src="http://explore.baltimoreheritage.org/files/original/0481037a7ee326c5009b73b3a404ecd0.jpg" caption="View of Howard Street Bridge, 2005" credit="Library of Congress" credit_url="http://www.loc.gov/pictures/collection/highsm/item/2010630964/" %}
 
 # What is this Explore Baltimore Heritage 101 course?
 
