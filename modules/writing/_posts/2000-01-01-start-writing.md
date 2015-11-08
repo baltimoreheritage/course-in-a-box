@@ -4,6 +4,8 @@ title: Writing
 
 This is a collaboratively edited set of guidelines and resources for contributors to the project. Useful if you are writing a single story on a topic that interests you or if you are an educator working with a group of students to develop an entire tour. This document includes an overview of the component parts of stories and tours, guidelines for composing and formatting stories and suggestions for how best to submit stories for publication.
 
+![The John Work Garrett Library, part of the Johns Hopkins Sheridan Libraries. Baltimore, Maryland](http://cdn.loc.gov/service/pnp/highsm/18400/18407r.jpg)
+
 # Writing Guidelines
 
 ## What resources are available to help research a story or tour?
