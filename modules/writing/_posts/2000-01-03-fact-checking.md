@@ -1,5 +1,5 @@
 ---
-title: Editing
+title: Checking Facts
 ---
 
 # Fact checking
@@ -13,3 +13,7 @@ _Establishing a methodology_
 - The [principles](http://www.politifact.com/truth-o-meter/article/2013/nov/01/principles-politifact-punditfact-and-truth-o-meter/)of PolitiFact's "Truth-O-Meter"
 - Think about your corrections - Pagella Politica's [Oops Page](https://pagellapolitica.it/blog/show/50/quando-i-fact-checker-sbagliano)
 
+See also:
+
+- Wikipedia: [List of common misconceptions](https://en.wikipedia.org/wiki/List_of_common_misconceptions)
+- Wikipedia: [List of fallacies](https://en.wikipedia.org/wiki/List_of_fallacies)
