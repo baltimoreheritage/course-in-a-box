@@ -2,17 +2,17 @@
     max-width: 100%;
 }
 
-.content figure {
+figure {
     margin:2em 0;
     text-align:center;
     display:block;
 }
 
-.content figure img {
+figure img {
     margin-bottom: 0.5em;
 }
 
-.content figcaption {
+figcaption {
     font-size:0.8em;
     color: #455A64;
 }
