@@ -23,15 +23,15 @@ We created this thematic resource guide for people interested in researching or 
 - Fell's Point News of the Day Announcements - Preservation Society
 - Captain Thompson's Journal - CiviWorks/Clifton Mansion
 
-### Secondary Sources  
+# Secondary Sources  
 
-### How do you learn more about people who lived and died around 1814?
+## How do you learn more about people who lived and died around 1814?
 
 - [Baltimore City and County Necrology](http://books.google.com/books?id=6tF4AAAAMAAJ&dq=john%20thomas%20scharf%20baltimore&pg=PA794#v=onepage&q&f=false) by Johns Thomas Scharf
 - [Find-A-Grave](http://www.findagrave.com/)
 - [Ancestry.com](http://ancestry.com)
 
-### What has been written about the Battle of Baltimore and the Chesapeake Campaign?
+## What has been written about the Battle of Baltimore and the Chesapeake Campaign?
 
 - [War of 1812 in Maryland Timeline](https://docs.google.com/spreadsheet/ccc?key=0AiRNPnSQ-I35dFQtZy1QbUYxMmpaSTczOFBLQ09JS0E&usp=sharing) - NPS
 - [Maryland in the War of 1812](https://familysearch.org/learn/wiki/en/Maryland_in_the_War_of_1812)
@@ -41,7 +41,7 @@ We created this thematic resource guide for people interested in researching or 
 - Hickman, Nathaniel, ed. [The citizen soldiers at North Point and Fort McHenry, September 12 & 13, 1814. Resolves of the citizens in town meeting, particulars relating to the battle, official correspondence and honorable discharge of the troops](http://fortmchenrylibrary.org/index.cfm?action=redirect&link=http%3A%2F%2Fwww%2Earchive%2Eorg%2Fdetails%2Fcitizensoldiersa01hick) Baltimore, N. Hickman [J. Young, printer], [1858].
 - Marine, William. [The British Invasion of Maryland, 1812-1815.](http://fortmchenrylibrary.org/index.cfm?action=redirect&link=http%3A%2F%2Fwww%2Earchive%2Eorg%2Fdetails%2Fbritishinvasion00mary) Baltimore: Society of War of 1812 in Maryland, 1913.
 
-### How do you put Baltimore in the context of 1814?
+## How do you put Baltimore in the context of 1814?
 
 [Wikipedia](http://www.wikipedia.org/) is a useful resource for general information related to this period. Useful articles include:
 
@@ -53,6 +53,6 @@ We created this thematic resource guide for people interested in researching or 
 
 Help us add to the history available on Wikipedia by editing or creating articles listed on our [Battle of Baltimore Wikipedia Edit-a-thon list](https://docs.google.com/spreadsheets/d/1tuwmDqRPxwx9eVfwv_zFas8farPh7qP03bQYnyZgAeA/edit?usp=sharing).
 
-### How do you find places related to the War of 1812?
+## How do you find places related to the War of 1812?
 
 - [Historic Markers Database: War of 1812](%20http://www.hmdb.org/Results.asp?CategoryID=14)
