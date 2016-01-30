@@ -1,5 +1,5 @@
 ---
-title: How will this course work?
+title: About
 ---
 
 
