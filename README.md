@@ -12,6 +12,31 @@ We created this course to support the efforts of people interested in the histor
 
 Our goal is to teach these research and writing skills to more people and encourage more contributions to our Explore Baltimore Heritage project and our related initiatives including the Battle of Baltimore and exhibits for the Baltimore Heritage Digital Collections site.
 
-# License
+# Setup
+...
 
-Any writing or images created by Baltimore Heritage for this site are available under a Creative Commons Attribution license.
+# Running locally
+...
+
+# Team
+
+- [Eli Pousson](https://github.com/elipousson)
+
+# Errors / Bugs
+
+If something is not working the way you expect, it may be a bug. Please help us improve this site by reporting it as an issue: https://github.com/baltimoreheritage/explore-101/issues
+
+# Pull Requests
+
+[See our guidelines for contributing](https://github.com/baltimoreheritage/explore-101/blob/gh-pages/CONTRIBUTING.md).
+
+- Fork the project.
+- Make your feature addition or bug fix.
+- Commit.
+- Send a pull request.
+
+
+# Copyright and License
+
+Any writing or images created by Baltimore Heritage for this site are available under a [Creative Commons Attribution license](http://creativecommons.org/licenses/by/4.0/).
+ 
