@@ -1,9 +1,9 @@
 ---
-title: Battle of Baltimore and the War of 1812
+title: Researching the Battle of Baltimore and the War of 1812
 excerpt: “A resource guide for researching Baltimore's early 19th century history and the War of 1812.”
 ---
 
-We created this thematic resource guide for people interested in researching or writing about the early history of Baltimore or the history of Maryland during the War of 1812. We put this guide together for our  [Battle of Baltimore](http://battleofbaltimore.org) website and app – if you are interested in contributing stories to the site, please get in touch! 
+We created this thematic resource guide for people interested in researching or writing about the early history of Baltimore or the history of Maryland during the War of 1812. We put this guide together for our  [Battle of Baltimore](http://battleofbaltimore.org) website and app – if you are interested in contributing stories to the site, please get in touch!
 
 ## Primary Sources
 

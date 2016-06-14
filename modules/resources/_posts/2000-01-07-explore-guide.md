@@ -1,5 +1,5 @@
 ---
-title: Contributor’s Guide
+title: Contributing to Explore Baltimore Heritage
 excerpt: “How to contribute stories and images to Explore Baltimore Heritage and the Battle of Baltimore.”
 ---
 
@@ -14,6 +14,7 @@ This contributor guide is designed for people who need basic information about h
 # Images
 
 ## How do I select images?
+
 A good selection of contemporary and historic images can be a very effective complement to the written description. Each story requires a minimum of 1 image before it may be published. Appropriate images may include:
 
 - An overall view of the place or building
@@ -25,7 +26,6 @@ A good selection of contemporary and historic images can be a very effective com
 
 - At a minimum, caption should include information on the subject, photographer, and date, e.g. Photograph of the Bromo Seltzer Tower by Eli Pousson, May 1, 2011.
 - Extended captions can be used to provide additional context on some aspect of the story.
-
 - Captions **should not exceed 100 words**.
 
 ## How do I credit photographs?

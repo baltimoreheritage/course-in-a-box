@@ -1,10 +1,10 @@
 ---
 title: Building this course
-excerpt: "Learn why good history starts with good questions."
+excerpt: “How is this website built.”
 published: true
 ---
 
-Note: This list is in process and will be updated and expanded. 
+Note: This list is in process and will be updated and expanded.
 
 ## Tools in use
 
@@ -15,14 +15,14 @@ Note: This list is in process and will be updated and expanded.
 
 ## Tools under evaluation
 
-- Prose - [https://github.com/prose/prose/wiki/Getting-Started] 
+- Prose - [https://github.com/prose/prose/wiki/Getting-Started]
 - Daily Graphics - [https://github.com/nprapps/dailygraphics]
 - [https://source.opennews.org/en-US/code/landline-stateline/]
 - [https://source.opennews.org/en-US/code/simple-map-d3/]
 - [https://h5p.org/content-types-and-applications]
 - [http://summerstyle.github.io/summer/]
 - [http://www.outsharked.com/imagemapster/default.aspx?demos.html]
-- [https://github.com/annotorious/annotorious]
+- [Annotorious](https://github.com/annotorious/annotorious)
 - [https://source.opennews.org/en-US/code/newsapps-boundary-service/]
 - [https://source.opennews.org/en-US/code/poderopedia-plug-play/]
 - [http://examples.ractivejs.org/illustration]

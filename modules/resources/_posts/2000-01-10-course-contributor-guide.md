@@ -20,16 +20,16 @@ You may already have an idea of some changes you want to make to this course or 
 In general, there are three ways volunteer contributors can help improve Explore Baltimore Heritage 101:
 
 1. Corrections
-  - Fix errors in grammar or spelling
-  - Correct inaccurate or out-dated information
+  2. Fix errors in grammar or spelling
+  3. Correct inaccurate or out-dated information
 2. Revisions
-  - Clarify confusing lessons or exercises
-  - Expand any lessons that are _too_ short
-  - Illustrate lessons or exercises with photographs
+  5. Clarify confusing lessons or exercises
+  6. Expand any lessons that are _too_ short
+  7. Illustrate lessons or exercises with photographs
 3. Additions
-  - Create a new lesson
-  - Create an exercise
-  - Create a resource (map, timeline, or dataset)
+  9. Create a new lesson
+  10. Create an exercise
+  11. Create a resource (map, timeline, or dataset)
 
 ## Prequisites: What to do before you get started?
 
